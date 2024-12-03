@@ -3,5 +3,5 @@
 I'm sumin!
 welcome~
 ___
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumin&show_icons=true&theme=radical)
+![jinsumin81's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsumin81&show_icons=true&theme=radical)
 
