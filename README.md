@@ -3,4 +3,5 @@
 I'm sumin!
 welcome~
 ___
-![sumin](https://img.shields.io/badge/sumin%2Cskyblue)
+![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumin&show_icons=true&theme=radical)
+
