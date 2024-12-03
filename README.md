@@ -3,4 +3,4 @@
 I'm sumin!
 welcome~
 ___
-[dongyang](https://img.shields.io/badge/dongyang)
+![Static Badge](https://img.shields.io/badge/dongyang)
