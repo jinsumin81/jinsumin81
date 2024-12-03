@@ -11,3 +11,5 @@ ___
 ![Python](https://img.shields.io/badge/Python-Code-skyblue?logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-Design-skyblue?logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Dynamic-skyblue?logo=javascript)
+![Twitter](https://img.shields.io/badge/Twitter-Follow-skyblue?logo=twitter)
+![Instagram](https://img.shields.io/badge/Instagram-Profile-skyblue?logo=instagram)
