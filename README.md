@@ -8,7 +8,8 @@ ___
 ![jinsumin81's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsumin81&show_icons=true&theme=radical)
 
 ___
-![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jinsumin81&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jinsumin81&theme=react-dark)
+
 
 ___
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-skyblue?logo=github)
