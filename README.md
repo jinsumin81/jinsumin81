@@ -3,6 +3,7 @@
 I'm sumin!
 welcome~
 - 📧 Email: jinsuminsumin@naver.com
+- I am currently studying in the **Department of Artificial Intelligence Software**🤖 at **Dongyang Mirae University**.
 ___
 ![jinsumin81's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsumin81&show_icons=true&theme=radical)
 
