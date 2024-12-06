@@ -8,6 +8,9 @@ ___
 ![jinsumin81's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsumin81&show_icons=true&theme=radical)
 
 ___
+![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jinsumin81&theme=react-dark)
+
+___
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-skyblue?logo=github)
 ![Python](https://img.shields.io/badge/Python-Code-skyblue?logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-Design-skyblue?logo=html5)
