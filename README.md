@@ -1,8 +1,6 @@
 ___
 ## Hi there 👋
-
-I'm sumin!
-welcome~
+my name is sumin
 - 📧 Email: jinsuminsumin@naver.com
 - I am currently studying in the **Department of Artificial Intelligence Software**🤖 at **Dongyang Mirae University**.
 ___
