@@ -20,4 +20,3 @@ ___
 ___
 <img src="https://github.com/jinsumin81/jinsumin81/blob/main/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.png" alt="프로필사진" />
 ___
-
